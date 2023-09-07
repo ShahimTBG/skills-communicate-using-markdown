@@ -4,17 +4,10 @@
 ``` javascript
 var myVar = "Hello, world! This is Shahim";
 ```
-
-
-
-
-
-
-
-
-
-
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Eat some good food
 
 
 
